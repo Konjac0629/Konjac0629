@@ -1,16 +1,15 @@
-### Hi there 👋
+### 嗨嗨嗨 👋
 
-<!--
-**Konjac0629/Konjac0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😉自我介绍一下，我是Konjac0629，是来自浙江的一名摸鱼小能手。
 
-Here are some ideas to get you started:
+😃喜欢听音乐，看视频，还有陪我滴宝贝女朋友！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔经常会想一些奇奇怪怪的问题
+
+### 联系我
+
+（先宣传一下自己的博客嘿嘿嘿）欢迎访问我的博客[*Konjac Blog - Life & Study & Work*](https://www.konjac.blog)
+
+QQ: 3348299588
+
+邮箱：konjac0629@windsyouth.com
